@@ -3,7 +3,7 @@
 ## Introduction
 This webpage is dedicated to Module 06 - Functions for the course Foundations of Programming: Python held during Spring 2022.
 
-### Hyperlinks
+### Links
 [Google Homepage](https://www.google.com "Google's Homepage")
 
 [GitHub Webpage Code CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
